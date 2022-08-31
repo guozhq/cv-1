@@ -1,8 +1,8 @@
 12
 43D:\Projects\cv-1\dist\index.9d072dfc.js.map133064333266069316 0
 39D:\Projects\cv-1\dist\index.9d072dfc.js133064333265863706 0
-21D:\Projects\cv-1\dist133064333266091053 1
-27D:\Projects\cv-1\.gitignore133064322843889267 0
+21D:\Projects\cv-1\dist133064338132821200 1
+27D:\Projects\cv-1\.gitignore133064334717070282 0
 20D:\Projects\cv-1\src133064323151406300 1
 31D:\Projects\cv-1\src\index.html133063434775745292 0
 28D:\Projects\cv-1\src\main.js133063436769751019 0
@@ -10,4 +10,4 @@
 38D:\Projects\cv-1\dist\cv-1.59712999.js133063407327900012 0
 39D:\Projects\cv-1\dist\index.de158e3a.js133063436771872678 0
 43D:\Projects\cv-1\dist\index.de158e3a.js.map133063436772056088 0
-32D:\Projects\cv-1\dist\index.html133064333265858811 0
+32D:\Projects\cv-1\dist\index.html133064338132624322 0
